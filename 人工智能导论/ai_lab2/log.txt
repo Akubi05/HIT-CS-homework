@@ -1,0 +1,1 @@
+python: can't open file 'C:\\Users\\aku05\\Downloads\\ai_lab2\\train.py': [Errno 2] No such file or directory
